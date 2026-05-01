@@ -2,7 +2,7 @@
   "kind": "Dashboard",
   "apiVersion": "dashboard.grafana.app/v1beta1",
   "metadata": {
-    "name": "test-v1beta1-annotations",
+    "name": "a388-demo-wave2",
     "annotations": {
       "hello": "world"
     },
@@ -251,7 +251,7 @@
     },
     "timepicker": {},
     "timezone": "browser",
-    "title": "Test: v1alpha1 dashboard with annotations",
+    "title": "A388 Critical Exfil Wave 2",
     "version": 8
   }
 }
