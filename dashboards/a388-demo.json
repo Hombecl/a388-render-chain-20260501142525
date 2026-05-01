@@ -1,18 +1,1 @@
-{
-  "id": null,
-  "uid": "a388demo",
-  "title": "A388 Demo Dashboard",
-  "timezone": "browser",
-  "schemaVersion": 39,
-  "version": 1,
-  "refresh": "5s",
-  "panels": [
-    {
-      "id": 1,
-      "type": "text",
-      "title": "hello",
-      "gridPos": {"h": 6, "w": 12, "x": 0, "y": 0},
-      "options": {"content": "A388 baseline", "mode": "markdown"}
-    }
-  ]
-}
+{"id": null, "uid": "a388demo", "title": "A388 Demo Dashboard", "timezone": "browser", "schemaVersion": 39, "version": 2, "refresh": "5s", "panels": [{"id": 1, "type": "text", "title": "hello", "gridPos": {"h": 6, "w": 12, "x": 0, "y": 0}, "options": {"content": "A388 PR preview change", "mode": "markdown"}}]}
