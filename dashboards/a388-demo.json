@@ -235,7 +235,7 @@
             "refId": "A"
           }
         ],
-        "title": "New panel",
+        "title": "SECRET_MARKER_X9Q7_VISIBLE",
         "type": "timeseries"
       }
     ],
@@ -251,7 +251,7 @@
     },
     "timepicker": {},
     "timezone": "browser",
-    "title": "A388 Critical Exfil Wave 2",
+    "title": "A388-LEAK-MARKER-X9Q7",
     "version": 8
   }
 }
