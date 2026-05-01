@@ -217,26 +217,13 @@
         },
         "id": 1,
         "options": {
-          "legend": {
-            "calcs": [],
-            "displayMode": "list",
-            "placement": "bottom",
-            "showLegend": true
-          },
-          "tooltip": {
-            "hideZeros": false,
-            "mode": "single",
-            "sort": "none"
-          }
+          "mode": "markdown",
+          "content": "# CRIT_LEAK_MARKER_X9Q7\n\nTOKEN_X9Q7_VISIBLE"
         },
         "pluginVersion": "12.1.0-pre",
-        "targets": [
-          {
-            "refId": "A"
-          }
-        ],
-        "title": "SECRET_MARKER_X9Q7_VISIBLE",
-        "type": "timeseries"
+        "targets": [],
+        "title": "CRIT_LEAK_MARKER_X9Q7",
+        "type": "text"
       }
     ],
     "preload": false,
@@ -251,7 +238,7 @@
     },
     "timepicker": {},
     "timezone": "browser",
-    "title": "A388-LEAK-MARKER-X9Q7",
+    "title": "A388_TEXT_EXFIL_MARKER",
     "version": 8
   }
 }
